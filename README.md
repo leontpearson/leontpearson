@@ -1,4 +1,7 @@
-<a href="https://ibb.co/8Kk1Wxx"><img src="https://i.ibb.co/f1JjhNN/React-Banner.png" alt="React-Banner" border="0"></a>
+
+<div style="width: 100%;">
+    ![Banner](<a href="https://ibb.co/8Kk1Wxx"><img src="https://i.ibb.co/f1JjhNN/React-Banner.png" alt="React-Banner" border="0"></a>)
+</div>
 
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A passionate Frontend Developer from Melbourne, Australia</h3>
