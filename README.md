@@ -1,4 +1,5 @@
-https://pasteboard.co/qvg5AwaIuHLk.png
+![Banner](https://pasteboard.co/qvg5AwaIuHLk.png)
+
 
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A passionate Frontend Developer from Melbourne, Australia</h3>
