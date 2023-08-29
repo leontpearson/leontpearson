@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pasteboard.co/qvg5AwaIuHLk.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://pasteboard.co/qvg5AwaIuHLk.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://pasteboard.co/qvg5AwaIuHLk.png">
-</picture>
+![Shadir's GitHub Banner](https://pasteboard.co/qvg5AwaIuHLk.png)
 
 
 
