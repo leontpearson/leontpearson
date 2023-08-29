@@ -1,4 +1,4 @@
-![Leon's GitHub Banner](https://ibb.co/x62WG7X)
+![Leon's GitHub Banner](<a href="https://ibb.co/x62WG7X"><img src="https://i.ibb.co/0rnTZGm/react-banner.png" alt="react-banner" border="0"></a>)
 
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A passionate Frontend Developer from Melbourne, Australia</h3>
