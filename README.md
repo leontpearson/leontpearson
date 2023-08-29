@@ -1,3 +1,5 @@
+![Leon's GitHub Banner](https://ibb.co/x62WG7X)
+
 ### Hi there 👋
 
 <!--
