@@ -1,4 +1,10 @@
-![Banner](https://pasteboard.co/qvg5AwaIuHLk.png)
+![Banner]()
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset=https://pasteboard.co/qvg5AwaIuHLk.png>
+ <source media="(prefers-color-scheme: light)" srcset=https://pasteboard.co/qvg5AwaIuHLk.png>
+ <img alt="YOUR-ALT-TEXT" src=https://pasteboard.co/qvg5AwaIuHLk.png>
+</picture>
+
 
 
 <h1 align="center">Hi 👋, I'm Leon</h1>
